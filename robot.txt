@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://futrangroup.com/sitemap.xml
